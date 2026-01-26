@@ -9,7 +9,7 @@ const mongoUrl = envVariables.mongoUrl;
 const clientOptions = {
   serverSelectionTimeoutMS: 5000,
   // Remember to change this for real DB
-  dbName: "dummy",
+  dbName: "launcher-test",
 };
 
 // Definining event listeners (these observers run during connection)
