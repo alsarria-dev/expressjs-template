@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+
+# Debug log from npm
+npm-debug.log
+
+# Add .env file when creating a new project
+.env
+
+# macOS
+.DS_Store
+
+# VS Code Settings
+.vscode/*
