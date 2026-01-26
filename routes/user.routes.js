@@ -5,6 +5,6 @@ import express from "express";
 const router = express.Router();
 
 // Gets user details
-router.get("/", getUsers(10));
+router.get("/", getUsers(5));
 
 export default router;
